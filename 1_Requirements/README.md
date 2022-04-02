@@ -55,9 +55,9 @@ Clothing store managers must consider factors like mark-ups, pricing margins, st
 | HLR_1| Calculations | Technical | IMPLEMENTED |
 |HLR_2|  Discount Option | Technical | IMPLEMENTED|
 | HLR_3 | Generate Invoice | Technical| IMPLEMENTED |
-|HLR_4 | add items | Technical| IMPLEMENTED|
+|HLR_4 | Add items | Technical| IMPLEMENTED|
 |HLR_5 | Search items| Technical| IMPLEMENTED|
-|HLR_6 |edit item | Technical| IMPLEMENTED|
+|HLR_6 |Edit item | Technical| IMPLEMENTED|
 
 
 ### Low Level  Requirements
@@ -67,9 +67,9 @@ Clothing store managers must consider factors like mark-ups, pricing margins, st
 | :-------- | :------- | :-------------------------------- |:--------------|
 | LLR_1      | Get data from standard input | Technical | IMPLEMENTED |
 |LLR_2 | Main menu should consist 7 options: 1.Add items, 2.Delete items, 3.Search, 4. View 5.Edit 6.Calculate Bill 7.Exit| Technical|IMPLEMENTED|
-|LLR_3 | admin will view the item | Technical| IMPLEMENTED|
-|LLR_4| admin will delete the items | Technical| IMPLEMENTED|
-|LLR_5 | admin will exit the item | Technical| IMPLEMENTED| 
+|LLR_3 | Admin will view the item | Technical| IMPLEMENTED|
+|LLR_4| Admin will delete the items | Technical| IMPLEMENTED|
+|LLR_5 | Admin will exit the item | Technical| IMPLEMENTED| 
 
 
 
