@@ -44,6 +44,22 @@ Clothing store managers must consider factors like mark-ups, pricing margins, st
 
 ### SWOT analysis
 
+#### Strengths 
+- Saves Time
+- Automatic Calculations
+- No chance of errors in calculations of inputs are right
+- Feature to add Discount
+
+#### Weakness
+- Needs graphical user interface.
+
+#### Opportunities
+- Can be implemented in any type of store or shops
+
+#### Threats
+- Don’t use any alphabets or any special characters while entering code of items.
+- Other Similar Applications
+
 
 
 ## The Requirements consists of two levels :
