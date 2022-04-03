@@ -12,3 +12,7 @@
 
 
 ![STRUCTURE DIAGRAM](https://user-images.githubusercontent.com/88372627/161423856-f533b5ba-b01c-440c-9dbf-451b441a07fe.png)
+
+
+### SEQUENCE DIAGRAM
+![SEQUENCE DIAGRAM](https://user-images.githubusercontent.com/88372627/161424963-a7a5d972-4a64-486e-b656-540f012f046c.png)
