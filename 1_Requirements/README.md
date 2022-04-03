@@ -42,6 +42,11 @@ Clothing store managers must consider factors like mark-ups, pricing margins, st
 - Clothing Store Management is an application that will take input from user such as customer details and item details and then it will do all the calculations    internally that are required and generate an invoice with customer name and total amount.
 
 
+
+![5W 1H](https://user-images.githubusercontent.com/88372627/161411849-1f280a83-fb12-4789-9f14-7a1ec398fb8e.png)
+
+
+
 ### SWOT analysis
 
 #### Strengths 
@@ -59,6 +64,9 @@ Clothing store managers must consider factors like mark-ups, pricing margins, st
 #### Threats
 - Don’t use any alphabets or any special characters while entering code of items.
 - Other Similar Applications
+
+
+![swot  analysis](https://user-images.githubusercontent.com/88372627/161411901-053c5cd5-aca5-4adc-b31b-d7f0c3138b04.png)
 
 
 
